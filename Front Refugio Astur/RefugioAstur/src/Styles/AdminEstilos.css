@@ -1,0 +1,17 @@
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 350px;
+  padding: 50px 0;
+  margin: 40px 0;
+  background-color: #2C3E50;
+  color: white;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+
